@@ -1,6 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
-## Below are two functions that are used to create a
+## These are two functions that are used to create a
 ## special object that stores a matrix and caches its inverse. 
 
 ## The first function, `makeCacheMatrix` creates a special "matrix", which is
